@@ -18,7 +18,7 @@
 - 📝 Logs every change with clear, formatted info:  
   `ID 123456, original price: 1,000, new price: 1,050, percent change: +5%`  
 - ⚠️ Warns if XML contains item IDs not found in your `itemdata.txt`  
-- 🎯 Outputs a new `itemdata_new.txt` and detailed `log.info`  
+- 🎯 Outputs a new `itemdata_new.txt` and detailed `log.log`  
 - 🔄 Easy-to-run `.bat` file for Windows convenience
 
 ---
@@ -60,19 +60,3 @@ Forget tedious manual edits or error-prone scripts. This tool gives **Lineage 2 
 ## 📄 License
 
 MIT License – feel free to modify and share!
-
----
-
-## 🤝 Contributions?
-
-Pull requests and ideas welcome! Let’s keep this tool evolving.
-
----
-
-## 📬 Contact
-
-Need help? Have a cool idea? Just ping me!
-
----
-
-Enjoy your perfectly priced **Lineage 2 Offline (L2OFF)** server economy! 🎮💰
