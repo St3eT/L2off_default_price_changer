@@ -1,3 +1,4 @@
+
 # 🎯 Item Price Adjuster for Lineage 2 Offline (L2OFF)
 
 **Effortlessly tweak your Lineage 2 Offline (L2OFF) item prices with precision and style!**
@@ -24,6 +25,20 @@
 ---
 
 ## 🛠️ How to use
+
+⚠️ **Important:**  
+Before running the script, make sure you have **Python 3.x** installed on your computer.  
+You can check this by opening a command prompt (CMD) or terminal and typing:  
+```bash
+python --version
+```
+or  
+```bash
+python3 --version
+```
+
+If Python is not installed or the version is below 3.x, download and install it from the official website:  
+[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 1. **Prepare your files:**  
    - Put your `itemdata.txt` and the provided `price_changes.xml` (included in this project as a default template with example IDs and values) in the same folder as the script. The default `price_changes.xml` looks like this:
