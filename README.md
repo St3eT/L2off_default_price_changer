@@ -1,13 +1,13 @@
 
-# 🎯 Item Price Adjuster for Lineage 2 Offline (L2OFF)
+# 🎯 Item Price Adjuster for Lineage 2 PTS files (L2OFF)
 
-**Effortlessly tweak your Lineage 2 Offline (L2OFF) item prices with precision and style!**
+**Effortlessly tweak your Lineage 2 PTS files (L2OFF) item prices with precision and style!**
 
 ---
 
 ## 🚀 What is this?
 
-**Item Price Adjuster** is a simple yet powerful Python tool designed specifically for **Lineage 2 Offline (L2OFF)** server admins and developers to modify `default_price` values in your game’s `itemdata.txt`. Whether you want to increase or decrease prices by a certain percentage for groups of items, this script handles it smoothly — even if your data is encoded in UTF-16LE BOM!
+**Item Price Adjuster** is a simple yet powerful Python tool designed specifically for **Lineage 2 PTS files (L2OFF)** server admins and developers to modify `default_price` values in your game’s `itemdata.txt`. Whether you want to increase or decrease prices by a certain percentage for groups of items, this script handles it smoothly — even if your data is encoded in UTF-16LE BOM!
 
 ---
 
@@ -68,7 +68,7 @@ If Python is not installed or the version is below 3.x, download and install it 
 
 ## 🎉 Why use this?
 
-Forget tedious manual edits or error-prone scripts. This tool gives **Lineage 2 Offline (L2OFF)** server admins and modders a clean, auditable, and repeatable workflow for your item economy — perfect for smooth price tuning on your server.
+Forget tedious manual edits or error-prone scripts. This tool gives **Lineage 2 PTS files (L2OFF)** server admins and modders a clean, auditable, and repeatable workflow for your item economy — perfect for smooth price tuning on your server.
 
 ---
 
